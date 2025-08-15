@@ -1,4 +1,4 @@
-BloodConnect 🩸
+**BLOOD DONATION AND SEEKER THROUGH REAL TIME USING AI**
 
 
 A Professional Blood Donation Management System
